@@ -1,18 +1,18 @@
 **Face Detection Attendance With Realtime Database**
 
-Cognizes face with face distance calculation
+Cognizes face with face distance calculation and updates the changes and marks attendance in th firebase
 
-Dependencies 
+**Dependencies** 
 
-cmake
+->cmake
 
-dlib
+->dlib
 
-face-recognition
+->face-recognition
 
-cvzone
+->cvzone
 
-numpy
+->numpy
 
-firebase-admin
+->firebase-admin
 
